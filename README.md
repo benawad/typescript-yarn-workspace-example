@@ -1,6 +1,6 @@
 # typescript-yarn-workspace-example
 
-# Watch how this was made:
+## Watch how this was made:
 
 This branch: https://youtu.be/EoqzOEZIzhg
 
